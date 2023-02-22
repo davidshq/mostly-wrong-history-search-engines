@@ -2,6 +2,9 @@
 
 > An attempt to create a friendly, fairly comprehensive, history of search engines with a slight emphasis on web search.
 
+## Contributions Welcome
+Contributions are appreciated. Please submit a pull request or open an issue.
+
 ## 1990-1999
 
 * 1992 - **Tim Berners-Lee** found the [**The WWW Virtual Library** \(VLib\)](http://vlib.org/), an early web directory.
@@ -183,6 +186,8 @@
 ## Bibliography
 
 We've attempted to be somewhat comprehensive in our bibliography. Resources we found particularly helpful are marked with an \*.
+
+We should also acknowledge our indebtedness to James Iry for the title of this repository, a reference to their article [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html).
 
 * Aaron Wall. [Search Engine History](http://www.searchenginehistory.com/). 2017.\*
 * Wikipedia
