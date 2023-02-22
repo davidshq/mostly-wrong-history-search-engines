@@ -191,6 +191,7 @@ We should also acknowledge our indebtedness to James Iry for the title of this r
 
 * Aaron Wall. [Search Engine History](http://www.searchenginehistory.com/). 2017.\*
 * Wikipedia
+  * [Search Engine](https://en.wikipedia.org/wiki/Search_engine)\*
   * [Timeline of Web Search Engines](https://en.wikipedia.org/wiki/Timeline_of_web_search_engines)\*
   * [Timeline of Google Search](https://en.wikipedia.org/wiki/Timeline_of_Google_Search)\*
   * [A9.com](https://en.wikipedia.org/wiki/A9.com)
