@@ -5,9 +5,12 @@
 ## Contributions Welcome
 Contributions are appreciated. Please submit a pull request or open an issue.
 
+## Individuals in Search History
+- See [People of Search](PeopleOfSearch.md).
+
 ## 1990-1999
 
-* 1992 - **Tim Berners-Lee** found the [**The WWW Virtual Library** \(VLib\)](http://vlib.org/), an early web directory.
+* 1992 - **Tim Berners-Lee** founds the [**The WWW Virtual Library** \(VLib\)](http://vlib.org/), an early web directory.
   * It was curated by a group of experts in their respective fields.
 * 1993 - May - **O'Reilly Media** launches [**Global Network Navigator \(GNN\)**](https://www.oreilly.com/gnn/), a web directory.
   * 1996 - **AOL** acquires and closes **GNN**.
@@ -76,13 +79,13 @@ Contributions are appreciated. Please submit a pull request or open an issue.
   * Uses natural language for queries, ranks links by popularity.
   * Also used human editors to improve search rsults.
   * 2005 - March - **IAC** acquires **Ask Jeeves.**
-* 1997 - September - **Arkady Volozh and Ilya Segalovich** launch **Yandex**, a Russion search engine.
+* 1997 - September - **Arkady Volozh** and **Ilya Segalovich** launch **Yandex**, a Russion search engine.
 * 1998 - **Jan-Willem Tusveld** launches Vinden.nl, internationally will become **ZapMeta**.
 * 1998 - **Bill Gross** launches **GoTo**, which will become **Overture**.
   * 2003 - **Yahoo** buys **Overture.**
 * 1998 - David Bodnick founds **Ixquick**.
   * 2016 - Ixquick is merged with **Startpage**, a sibling project.
-* 1998 - June - **Rich Skrenta** and **Bob Truel** launch **Gnuhoo** which is later named the **Open Director Project/DMoZ.**
+* 1998 - June - **Rich Skrenta** and **Bob Truel** launch **Gnuhoo** which is later named the **Open Directory Project/DMoZ.**
   * Run by volunteers.
   * 1998 - November - **Netscape** acquires **ODP/DMoZ**.
 * 1998 - July-September - **MSN Search** launches.
@@ -99,7 +102,7 @@ Contributions are appreciated. Please submit a pull request or open an issue.
 
 ## 2000-2009
 
-* 2000 - **Francois** **Bourdoncle** and **Patrice Bertin** found **Exalead**.
+* 2000 - **Francois Bourdoncle** and **Patrice Bertin** found **Exalead**.
 * 2000 - **OpenCOLA**, distributed search engine, launches.
 * 2000 - April - **Gene Kan** and **Steve Waterhouse** launch **InfraSearch**, a distributed search engine.
   * It is acquired by **Sun Microsystems**.
@@ -172,7 +175,7 @@ Contributions are appreciated. Please submit a pull request or open an issue.
   * Supports additional tags that sites can use to convey information to engines better.
 * 2012 - January - **Google** launches **Search Plus Your World** which integrates social data into one's query results.
 * 2012 - May - **Microsoft** adds social data functionality to **Bing**.
-* 2013 - July - Jean-Manuel Rozan, Eric Leandri, and Patrick  Constant's **Qwant** is launched.
+* 2013 - July - Jean-Manuel Rozan, Eric Leandri, and Patrick Constant's **Qwant** is launched.
 * 2012 - May - **Google** releases **Knowledge Graph**.
 * 2014 - **Yahoo** closes **Yahoo! Directory.**
 * 2017 - March - **ODP/DMoZ** is shut down.
@@ -189,11 +192,15 @@ We've attempted to be somewhat comprehensive in our bibliography. Resources we f
 
 We should also acknowledge our indebtedness to James Iry for the title of this repository, a reference to their article [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html).
 
+### General
+* Joel Lee. [7 Search Engines That Rocked Before Google Even Exists](https://www.makeuseof.com/tag/7-search-engines-that-rocked-before-google-even-existed/). Mashable, 2015.
 * Aaron Wall. [Search Engine History](http://www.searchenginehistory.com/). 2017.\*
 * Wikipedia
   * [Search Engine](https://en.wikipedia.org/wiki/Search_engine)\*
   * [Timeline of Web Search Engines](https://en.wikipedia.org/wiki/Timeline_of_web_search_engines)\*
   * [Timeline of Google Search](https://en.wikipedia.org/wiki/Timeline_of_Google_Search)\*
+
+### Specific Search Engines / Technologies
   * [A9.com](https://en.wikipedia.org/wiki/A9.com)
   * [Distributed Search Engine](https://en.wikipedia.org/wiki/Distributed_search_engine)
   * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
@@ -219,6 +226,7 @@ We should also acknowledge our indebtedness to James Iry for the title of this r
   * [World Wide Web Worm](https://en.wikipedia.org/wiki/World_Wide_Web_Worm)
   * [YaCy](https://en.wikipedia.org/wiki/YaCy)
   * [Yippy](https://en.wikipedia.org/wiki/Yippy)
-* Joel Lee. [7 Search Engines That Rocked Before Google Even Exists](https://www.makeuseof.com/tag/7-search-engines-that-rocked-before-google-even-existed/). Mashable, 2015.
 * [Company Information and History](https://www.zapmeta.com/info/company_information). ZapMeta.
 
+### Specific Individuals
+- [Bill T. Gross](https://en.wikipedia.org/wiki/Bill_T._Gross)
