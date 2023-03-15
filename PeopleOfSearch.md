@@ -177,4 +177,4 @@
 - 1998 - Direct Hit Technologies released.
 
 ## Bibliography
-- Please see the bibliography at [A Brief, Incomplete, and Mostly Wrong History of Search Engines](README.md)
+- [Bill T. Gross](https://en.wikipedia.org/wiki/Bill_T._Gross) - GoTo, TweetUp

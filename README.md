@@ -129,6 +129,8 @@ Contributions are appreciated. Please submit a pull request or open an issue.
   * 2005 - Nutch joins **Apache Incubator**.
   * 2010 - Nutch becomes top level project at **Apache Software Foundation**.
   * 2014 - **Common Crawl** begins using Nutch for its crawls.
+* 2003 - **Mozdex** is founded by **Byron Miller**. It is built on Apache Nutch and Lucene and uses the **DMoZ** directory as its seed list.
+  - 2011 - Mozdex ceases to exist.
 * 2004 - **Marc Smith** at the **Sussex Innovation Centre** launches **Mojeek**.
 * 2004 - **Vivisimo** launches **Clusty**.
   * Started at Carnegie Mellon University.
@@ -216,6 +218,9 @@ We should also acknowledge our indebtedness to James Iry for the title of this r
   * [MetaGer](https://en.wikipedia.org/wiki/MetaGer)
   * [Microsoft Development Center Norway \(FAST\)](https://en.wikipedia.org/wiki/Microsoft_Development_Center_Norway)
   * [Mojeek](https://en.wikipedia.org/wiki/Mojeek)
+  * Mozdex
+    * [2005 Snapshot](https://web.archive.org/web/20051130093749/http://www.mozdex.com/)
+    * [2011 Snapshot](https://web.archive.org/web/20110629190002/http://www.mozdex.com/)
   * [Nutch](https://en.wikipedia.org/wiki/Apache_Nutch)
   * [Powerset](https://en.wikipedia.org/wiki/Powerset_%28company%29)
   * [Robots Exclusion Standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
@@ -227,6 +232,3 @@ We should also acknowledge our indebtedness to James Iry for the title of this r
   * [YaCy](https://en.wikipedia.org/wiki/YaCy)
   * [Yippy](https://en.wikipedia.org/wiki/Yippy)
 * [Company Information and History](https://www.zapmeta.com/info/company_information). ZapMeta.
-
-### Specific Individuals
-- [Bill T. Gross](https://en.wikipedia.org/wiki/Bill_T._Gross)
