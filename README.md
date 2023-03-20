@@ -72,7 +72,7 @@ Contributions are appreciated. Please submit a pull request or open an issue.
 * 1996 - October - **Gary Culliss** and **Steven Yang** work at MIT on a "popularity engine" which becomes **Direct Hit Technologies** search engine.
   * Uses previous search selection stats to determine rank.
   * 1998 - August - **Direct Hit Technologies** releases their search engine.
-* 1996 - **MetaGer** is lanched.
+* 1996 - **MetaGer** is lanched by **Dr. Wolfgang Sander-Beuermann** as a research project at the University of Hanover and the regional computing center of Lower Saxony.
 * 1997 - **FAST** is founded, **Arne Halaas** and **John M. Lervik** are two of the core contributors, the latter becomes CEO.
   * 2003 - FAST sells its search related business to **Overture**.
 * 1997 - April - **Ask Jeeves \(Ask.com\)** is released.
@@ -139,6 +139,7 @@ Contributions are appreciated. Please submit a pull request or open an issue.
 * 2004 - **Ask Jeeves** acquires **Interactive Search Holdings**.
 * 2004 - **iZito** becomes the international version of Vinden/Zoeken.
 * 2004 - December - **Google Suggest** becomes a **Google Labs** feature.
+* 2004 - **Dr. Amanda Spink** and *Dr. Bernard J. Jansen** publish *Web Search: Pubic Searching of the Web* (Kluger Academic Publishers).
 * 2004 - 2005 - **MSN Search** begins using its own indexer and crawler.
   * Previously, MSN was powered by LookSmart and Inktomi.
 * 2005 - **ZapMeta** becomes another international version of Vinden/Zoeken.
@@ -175,11 +176,16 @@ Contributions are appreciated. Please submit a pull request or open an issue.
   * Does not appear fully functional as of 12/2019.
 * 2011 - June - **Google**, **Yahoo**, and **Microsoft** announced **Schema.org**.
   * Supports additional tags that sites can use to convey information to engines better.
+* 2012 - January - **MetaGer** is transferred from the **University of Hanover** to **SUMA-EV**.
 * 2012 - January - **Google** launches **Search Plus Your World** which integrates social data into one's query results.
 * 2012 - May - **Microsoft** adds social data functionality to **Bing**.
 * 2013 - July - Jean-Manuel Rozan, Eric Leandri, and Patrick Constant's **Qwant** is launched.
+* 2013 - August - **MetaGer** launches English version.
+  * 2013 - December - **MetaGer** integrates **Tor** into its offering.
+  * 2014 - March - **MetaGer** integrates anonymous proxy into its offering.
 * 2012 - May - **Google** releases **Knowledge Graph**.
 * 2014 - **Yahoo** closes **Yahoo! Directory.**
+* 2016 - **MetaGer** releases it's source code under the GNU AGPL.
 * 2017 - March - **ODP/DMoZ** is shut down.
 
 ## Information To Add
@@ -201,6 +207,7 @@ We should also acknowledge our indebtedness to James Iry for the title of this r
   * [Search Engine](https://en.wikipedia.org/wiki/Search_engine)\*
   * [Timeline of Web Search Engines](https://en.wikipedia.org/wiki/Timeline_of_web_search_engines)\*
   * [Timeline of Google Search](https://en.wikipedia.org/wiki/Timeline_of_Google_Search)\*
+* Yazdan Mansourian. [Book Review: Web Search-Public Searching of the Web](https://www.researchgate.net/publication/26405850_Book_Review_Web_Search-Public_Searching_of_the_Web). Webology, Vol. 1, No. 2 Dec. 2004.
 
 ### Specific Search Engines / Technologies
   * [A9.com](https://en.wikipedia.org/wiki/A9.com)
@@ -216,6 +223,7 @@ We should also acknowledge our indebtedness to James Iry for the title of this r
   * [Lucene](https://en.wikipedia.org/wiki/Apache_Lucene)
   * [MetaCrawler](https://en.wikipedia.org/wiki/MetaCrawler)
   * [MetaGer](https://en.wikipedia.org/wiki/MetaGer)
+  * [MetaGer - About Us](https://metager.org/about)
   * [Microsoft Development Center Norway \(FAST\)](https://en.wikipedia.org/wiki/Microsoft_Development_Center_Norway)
   * [Mojeek](https://en.wikipedia.org/wiki/Mojeek)
   * Mozdex
