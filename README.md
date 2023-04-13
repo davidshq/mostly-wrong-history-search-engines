@@ -168,6 +168,7 @@ Contributions are appreciated. Please submit a pull request or open an issue.
 
 ## 2010-2019
 
+* 2010 - Shay Banon releases **Elasticsearch** under an Apache license.
 * 2010 - September - **Google** launches **Google Instant**.
 * 2010 - November - **Blekko** launches.
   * Uses slashtags to allow searches to filter results.
@@ -185,8 +186,13 @@ Contributions are appreciated. Please submit a pull request or open an issue.
   * 2014 - March - **MetaGer** integrates anonymous proxy into its offering.
 * 2012 - May - **Google** releases **Knowledge Graph**.
 * 2014 - **Yahoo** closes **Yahoo! Directory.**
+* 2014 - **Elastic** begins offering commercial addons (later combined into a single package, **X-Pack**).
+* 2015 - Amazon launches **Amazon Elasticsearch Service** and is sued by **Elastic**.
 * 2016 - **MetaGer** releases it's source code under the GNU AGPL.
 * 2017 - March - **ODP/DMoZ** is shut down.
+* 2019 - **Amazon** launches **Open Distro for Elasticsearch**, similar to **X-Pack**.
+* 2021 - **Elastic** discontinues Apache-licensed **Elasticsearch**, offering **Elasticsearch** under the more restrictive **SSPL** and **Elastic License**.
+* 2021 - **Amazon** responds by forking the last Apache-licensed version of **Elasticsearch** under the name **OpenSearch**.
 
 ## Information To Add
 
@@ -213,6 +219,8 @@ We should also acknowledge our indebtedness to James Iry for the title of this r
   * [A9.com](https://en.wikipedia.org/wiki/A9.com)
   * [Distributed Search Engine](https://en.wikipedia.org/wiki/Distributed_search_engine)
   * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
+  * Elasticsearch and OpenSearch
+    * Radu Gheorghe. [OpenSearch vs Elasticsearch: Which One Is Better to Use?](https://sematext.com/blog/opensearch-vs-elasticsearch-which-one-is-better-sematext/). 3/2023.
   * [Exalead](https://en.wikipedia.org/wiki/Exalead)
   * [Excite](https://en.wikipedia.org/wiki/Excite)
   * [Gigablast](https://en.wikipedia.org/wiki/Gigablast)
