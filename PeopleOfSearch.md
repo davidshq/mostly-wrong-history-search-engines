@@ -138,6 +138,7 @@
 
 ## Rich Skrenta
 - 1998 - Launches Gnuhoo (Open Directory Project/DMoZ).
+- 2010 - Cofounds Blekko.
 
 ## Marc Smith
 - 2004 - Launches Mojeek.

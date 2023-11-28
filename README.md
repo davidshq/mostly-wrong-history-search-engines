@@ -163,6 +163,10 @@ Contributions are appreciated. Please submit a pull request or open an issue.
   * 2010 - September - **Cuil** closes.
 * 2008 - September - **DuckDuckGo** launches.
   * Privacy-centric.
+* 2008 - September - Jumper (later renamed to ApexKB), a collaborative search / knowledge management engine is announced.
+  * 2009 - March - Stable release of Jumper is made available on SourceForge.
+  * 2010 - November - Last release of Jumper is made available on SourceForge.
+  * 2011 - September - Jumper Networks Inc closes.
 * 2009 - June - **Microsoft** launches **Bing**.
 * 2009 - December - **Ecosia** launches.
 
@@ -217,6 +221,7 @@ We should also acknowledge our indebtedness to James Iry for the title of this r
 
 ### Specific Search Engines / Technologies
   * [A9.com](https://en.wikipedia.org/wiki/A9.com)
+  * [ApexKB](https://en.wikipedia.org/wiki/ApexKB)
   * [Distributed Search Engine](https://en.wikipedia.org/wiki/Distributed_search_engine)
   * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
   * Elasticsearch and OpenSearch
